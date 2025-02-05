@@ -12,6 +12,12 @@ Accept my group invite, then go inside the instance.
 
 Whisper me + if you are finished, or whisper me ++ if you would like to invite some others to the group - you will be made group leader, the best way to invite friends from this point is to list a group in the LFG tool. My WeakAura will detect this and automatically leave the group once listed.
 
+## Commands
+`!normal` or `!nm` - Set raid difficulty to Normal (Default Setting), send this *before* you enter.  
+`!heroic` or `!hc` - Set raid difficulty to Heroic, send this *before* you enter.  
+`++` - Send this to get promoted to leader so you can invite others or create a group in LFG, send this *after* you enter.  
+`+` - Send this to make me leave the party and free up the session for others, send this *after* you enter. This will happen automatically after 30 seconds.  
+
 ## Alliance characters, or Horde getting "No player named Yermaw is currently online."
 
 Join the in-game community to work around this. The current invite code is always in my status posts on Discord.
