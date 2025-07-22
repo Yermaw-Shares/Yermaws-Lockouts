@@ -8,15 +8,14 @@ Stand directly outside the instance you want to skip, and send me the below mess
 
 `/w Yermaw-Bronzebeard !sharing`
 
-Accept my group invite, then go inside the instance.
+Accept my group invite, then go inside the instance. I will automatically pass lead and leave the group when you go inside.
 
-Whisper me + if you are finished, or whisper me ++ if you would like to invite some others to the group - you will be made group leader, the best way to invite friends from this point is to list a group in the LFG tool. My WeakAura will detect this and automatically leave the group once listed.
+If you want to invite friends, you can either suggest I invite them to the group (automatically accepted), or send me `!lead` to be passed lead and get a short time extension once you enter the instance.  
 
 ## Commands
 `!normal` or `!nm` - Set raid difficulty to Normal (Default Setting), send this *before* you enter.  
 `!heroic` or `!hc` - Set raid difficulty to Heroic, send this *before* you enter.  
-`++` - Send this to get promoted to leader so you can invite others or create a group in LFG, send this *after* you enter.  
-`+` - Send this to make me leave the party and free up the session for others, send this *after* you enter. This will happen automatically after 30 seconds.  
+`!lead` - Send this to get promoted to leader so you can invite others or create a group in LFG, send this *before* you enter.  
 
 ## Alliance characters, or Horde getting "No player named Yermaw is currently online."
 
@@ -66,6 +65,6 @@ Step 5: (optional) Loot Invincible's Reins
 ## FAQs
 
 When are you online? I post to the following Discord server when I am online - https://discord.gg/achievements (#eu-chat-and-lfg channel)  
-Are you a bot? No, a WeakAura does the messaging and inviting for me (this is what a bot would say...).  
+Are you a bot? No, an addon does the messaging and inviting for me (this is what a bot would say...).  
 Can you share Dragon Soul/Mogu'shan Vault/ToT/SoO[M]/BFA dungeons - Unfortunately not, due to Blizzard limitations.  
 What do you get from doing this? - Heart reacts on Discord mostly. I do love getting messages when people get drops from my shares though.  
