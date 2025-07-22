@@ -10,7 +10,7 @@ Stand directly outside the instance you want to skip, and send me the below mess
 
 Accept my group invite, then go inside the instance. I will automatically pass lead and leave the group when you go inside.
 
-If you want to invite friends, you can either suggest I invite them to the group (automatically accepted), or send me `!lead` to be passed lead and get a short time extension once you enter the instance.  
+If you want to invite friends, you can either suggest I invite them to the group (automatically accepted), or send me `!lead` to be passed lead when you enter.  
 
 ## Commands
 `!normal` or `!nm` - Set raid difficulty to Normal (Default Setting), send this *before* you enter.  
