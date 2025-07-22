@@ -20,7 +20,9 @@ Whisper me + if you are finished, or whisper me ++ if you would like to invite s
 
 ## Alliance characters, or Horde getting "No player named Yermaw is currently online."
 
-Join the in-game community to work around this. The current invite code is always in my status posts on Discord.
+Join the in-game community to work around this. The current invite code is always in my status posts on Discord (see FAQs below).
+
+<img width="1201" height="471" alt="image" src="https://github.com/user-attachments/assets/65e9e51f-b9c1-455e-88a8-7eb4c004dd7f" />
 
 ## Supported Instances
 
@@ -63,6 +65,7 @@ Step 5: (optional) Loot Invincible's Reins
 
 ## FAQs
 
+When are you online? I post to the following Discord server when I am online - https://discord.gg/achievements (#eu-chat-and-lfg channel)  
 Are you a bot? No, a WeakAura does the messaging and inviting for me (this is what a bot would say...).  
 Can you share Dragon Soul/Mogu'shan Vault/ToT/SoO[M]/BFA dungeons - Unfortunately not, due to Blizzard limitations.  
 What do you get from doing this? - Heart reacts on Discord mostly. I do love getting messages when people get drops from my shares though.  
