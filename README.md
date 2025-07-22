@@ -52,7 +52,9 @@ Siege of Orgrimmar (N/H) (Kor'kron Dark Shamans) --> Kor'kron Shaman's Treasure 
 
 Horde only
 
-READ ALL OF THESE STEPS CAREFULLY, THEY ARE ALL REQUIRED
+READ ALL OF THESE STEPS CAREFULLY, THEY ARE ALL REQUIRED  
+
+If you want to bring a friend, just invite them to your group at Step 4. No need for then to join my group.  
 
 Step 1: Set Raid Difficulty to Heroic and 25 Player, Enter ICC, Kill the first boss (Lord Marrowgar), Exit ICC  
 Step 2: Outside ICC,   
